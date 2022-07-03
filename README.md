@@ -1,6 +1,6 @@
 # TradingChartJavaFX
 
-Tradingview Like Chart in JavaFX 
+Tradingview Like Chart in JavaFX canvas
 
 https://gist.github.com/ShakirEmstell/90602d84c84eff80d7294943828c17f5
 
